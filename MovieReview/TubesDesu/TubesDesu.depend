@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1587920418 source:c:\kuli ah\ngoding\c++\tubesdesu\main.cpp
+	"fungsional.h"
+
+1587965533 source:c:\kuli ah\ngoding\c++\tubesdesu\movie.cpp
+	"Movie.h"
+
+1587839837 c:\kuli ah\ngoding\c++\tubesdesu\movie.h
+	<iostream>
+
+1587971521 source:c:\kuli ah\ngoding\c++\tubesdesu\reviewer.cpp
+	"Reviewer.h"
+
+1587861983 c:\kuli ah\ngoding\c++\tubesdesu\reviewer.h
+	<iostream>
+
+1587974775 source:c:\kuli ah\ngoding\c++\tubesdesu\relasi_ulasan.cpp
+	"relasi_Ulasan.h"
+
+1587973429 c:\kuli ah\ngoding\c++\tubesdesu\relasi_ulasan.h
+	"relasi_Ulasan.h"
+	"Movie.h"
+	"Reviewer.h"
+	<iostream>
+
+1587974254 source:c:\kuli ah\ngoding\c++\tubesdesu\fungsional.cpp
+	"fungsional.h"
+
+1587973213 c:\kuli ah\ngoding\c++\tubesdesu\fungsional.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string>
+	"Movie.h"
+	"Reviewer.h"
+	"relasi_Ulasan.h"
+
+1587920420 source:c:\users\administrator\desktop\tubes!!!\tstubesstd\tubesdesu\main.cpp
+	"fungsional.h"
+
+1587973214 c:\users\administrator\desktop\tubes!!!\tstubesstd\tubesdesu\fungsional.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string>
+	"Movie.h"
+	"Reviewer.h"
+	"relasi_Ulasan.h"
+
+1587839838 c:\users\administrator\desktop\tubes!!!\tstubesstd\tubesdesu\movie.h
+	<iostream>
+
+1587861984 c:\users\administrator\desktop\tubes!!!\tstubesstd\tubesdesu\reviewer.h
+	<iostream>
+
+1587973430 c:\users\administrator\desktop\tubes!!!\tstubesstd\tubesdesu\relasi_ulasan.h
+	"relasi_Ulasan.h"
+	"Movie.h"
+	"Reviewer.h"
+	<iostream>
+
+1587965534 source:c:\users\administrator\desktop\tubes!!!\tstubesstd\tubesdesu\movie.cpp
+	"Movie.h"
+
+1587974776 source:c:\users\administrator\desktop\tubes!!!\tstubesstd\tubesdesu\relasi_ulasan.cpp
+	"relasi_Ulasan.h"
+
+1587971522 source:c:\users\administrator\desktop\tubes!!!\tstubesstd\tubesdesu\reviewer.cpp
+	"Reviewer.h"
+
+1588162372 source:c:\users\administrator\desktop\tubes!!!\tstubesstd\tubesdesu\fungsional.cpp
+	"fungsional.h"
+

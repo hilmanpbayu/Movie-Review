@@ -1,0 +1,8 @@
+Urutan Coba Program:
+1. Login admin dengaan username: Kimoy dan password:6969 untuk mengakses menu. Lalu insert terlebih dahulu movie yang diinginkan.
+2. Kembali ke menu, Sign Up Reviewer dengan membuat username dan password yang nantinya akan di pakai untuk mengulas movie.
+3. Kembali ke menu, Login Reviewer dengan username dan password yang dibuat, lalu input ulasan untuk movie tertentu.
+
+No Fix/Bug :
+1. Menu Reviewer View yang belum diulas
+2. Delete Movie Relasi pada kodingan error
